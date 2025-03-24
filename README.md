@@ -20,5 +20,5 @@
 17.	Találd meg azokat a mondatokat, amelyekben legalább három szó szerepel.
 18.	Találd meg az olyan pénzösszegeket, mint "1000 Ft", "5 500 Ft".
 19.	Találd meg azokat a jelszavakat, amelyek legalább 8 karakter hosszúak, és tartalmaznak betűt és számot is.
-20.	: Találd meg a régi és új magyar rendszámokat (pl. "ABC-123", "RFX-987" vagy "AAA-1234").
+20.	Találd meg a régi és új magyar rendszámokat (pl. "ABC-123", "RFX-987" vagy "AAA-1234").
 
