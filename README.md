@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=4LdKP7PBiNs&ab_channel=MIExpo
+
 # Regex
 Órai munka - REGEX feladatok		Név.……………………………………
 
